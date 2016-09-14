@@ -1,0 +1,5 @@
+com/marksandspencer/ui/stepdefinitions/SearchSteps.class
+com/marksandspencer/ui/pages/SearchPage.class
+com/marksandspencer/ui/cucumber/Hooks.class
+com/marksandspencer/ui/cucumber/RunCukesTest.class
+com/marksandspencer/ui/support/Driver.class
